@@ -1,6 +1,1 @@
-wait(0.2)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Hack"; -- the title 
-Text = "Stuffz"; -- what the text says 
-Duration = 5; -- how long the notification should in secounds
-})
+print("nigger")
